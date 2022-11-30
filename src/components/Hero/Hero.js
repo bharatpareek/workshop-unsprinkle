@@ -14,10 +14,10 @@ const Hero = () => {
           `}
         />
         <HeroImage
-          src="/images/hero-img.jpg"
+          src="/images/hero-img.jpg" alt="A cat with blue eyes looking straight at you. (One of the animal photo available on this site.)"
         />
       </picture>
-      <Swoop src="/swoop.svg" />
+      <Swoop src="/swoop.svg" alt="" />
     </Wrapper>
   );
 };
